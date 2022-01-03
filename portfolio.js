@@ -116,9 +116,10 @@ export const experience = [
 
 export const projects = [
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		link: "https://example.com",
+		name: "tilt",
+		desc: "Social network for gamers, meant to provide a way to archive your collection of games across genres, platforms and decades. tilt allows you to search and sort through games, as well as add any game to a collection whether it be favorited, played or a wishlisted.",
+		link: "https://tilt-games.herokuapp.com/",
+		github: "https://github.com/sforesi/tilt",
 	},
 	{
 		name: "lorem ipsum",
