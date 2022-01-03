@@ -122,15 +122,16 @@ export const projects = [
 		github: "https://github.com/sforesi/tilt",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1100",
+		name: "ClutchUp",
+		desc: "Mobil app built with Python that allows you to meaningfully track your rides in something of a 'diary' format.  ClutchUp allows you to track your rides by adding details like a description, distance, top speed, as well as uploading and image of your ride.",
+		link: "https://clutchup.herokuapp.com/",
+		github: "https://github.com/sforesi/clutch_up",
 	},
 	{
-		name: "lorem ipsum",
-		desc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
-		github: "https://github.com/1hanzla100",
-		link: "https://example.com",
+		name: "Studio Cervino",
+		desc: "Recording studio application built for client in Turin, Italy. Full stack app with CRUD functionality built with Node, Express, MongoDB. Frontend to be adapted for React for hard launch",
+		link: "https://recording-studio-app.herokuapp.com/",
+		github: "https://github.com/sforesi/studio-app",
 	},
 ];
 
