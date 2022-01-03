@@ -1,7 +1,7 @@
 import emoji from "react-easy-emoji";
 
 export const greetings = {
-	name: "Sebastino Foresi",
+	name: "Sebastiano Foresi",
 	title: "About",
 	description:
 		"Enthusiastic multilingual Software Engineer eager to learn new technologies and work through bugs with commitment and collaboration.",
@@ -21,7 +21,7 @@ export const socialLinks = {
 };
 
 export const skillsSection = {
-	title: "What I do",
+	title: "What I Do",
 	subTitle:
 		" Build and conceptualize mobile and web-applications using: HTML, CSS, JavaScript, Bootstrap, Express, Node.js, React, Github, MongoDB, Python, Django and more.",
 
