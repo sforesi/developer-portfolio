@@ -23,7 +23,7 @@ export const socialLinks = {
 export const skillsSection = {
 	title: "What I do",
 	subTitle:
-		" Build and conceptualized multiple mobile and web-applications using: HTML, CSS, JavaScript, Bootstrap, Express, Node.js, React, Github, MongoDB, Python, Django and more.",
+		" Built and conceptualized multiple mobile and web-applications using: HTML, CSS, JavaScript, Bootstrap, Express, Node.js, React, Github, MongoDB, Python, Django and more.",
 
 
 	softwareSkills: [
