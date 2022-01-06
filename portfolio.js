@@ -123,7 +123,7 @@ export const projects = [
 	},
 	{
 		name: "ClutchUp",
-		desc: "Mobil app built with Python that allows you to meaningfully track your rides in something of a 'diary' format.  ClutchUp allows you to track your rides by adding details like a description, distance, top speed, as well as uploading and image of your ride.",
+		desc: "Mobile-friendly app built with Python that allows you to meaningfully track your rides in a 'diary' format.  ClutchUp allows you to track your rides by adding details like a description, distance, top speed, as well as uploading and image of your ride.",
 		link: "https://clutchup.herokuapp.com/",
 		github: "https://github.com/sforesi/clutch_up",
 	},
